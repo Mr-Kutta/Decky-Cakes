@@ -1,0 +1,16 @@
+Cmd code for firebase deployment.
+
+1. Open cmd
+2. $ npm install (if error) 
+Download and install node.js and npm tools and add to PATH
+3. $ npm --version
+4. $ firebase init
+5. $ firebase login 
+// open the Decky Cakes folder & make sure you run this code on that directory
+6. $ npm install -g firebase-tools
+7. $ cd functions
+8. $ npm install
+7. $ firebase use --add <ProjectID>
+8. $ firebase deploy
+
+@Notes by Hari Gowtham.
